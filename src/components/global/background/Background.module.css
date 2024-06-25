@@ -1,0 +1,13 @@
+.div{
+    /* background-color: #F2F7F1; */
+    background-color: black;
+    color:brown;
+
+    width: 100%;
+    height: 800px;
+    /* z-index: 1; */
+    margin-left : 0px;
+    margin-right : 0px;
+    margin-top : 0px;
+    margin-bottom : 0px;
+}
